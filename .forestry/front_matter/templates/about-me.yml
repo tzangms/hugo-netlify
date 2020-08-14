@@ -18,4 +18,5 @@ fields:
       format: markdown
   label: content
 pages:
+- content/check-check.md
 - content/posts/hello.md
