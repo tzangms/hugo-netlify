@@ -2,3 +2,5 @@
 label: About me
 hide_body: true
 fields: []
+pages:
+- content/posts/hello.md
