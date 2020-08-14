@@ -8,15 +8,6 @@ fields:
   config:
     required: false
   label: title
-- name: content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: content
 pages:
 - content/check-check.md
 - content/posts/hello.md
