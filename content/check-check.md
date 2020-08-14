@@ -1,7 +1,7 @@
 +++
 content = ""
 draft = true
-title = ""
+title = "this is 小孩"
 
 +++
 hello
