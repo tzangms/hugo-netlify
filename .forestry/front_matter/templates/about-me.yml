@@ -1,6 +1,11 @@
 ---
 label: About me
 hide_body: true
-fields: []
+fields:
+- name: body
+  type: text
+  config:
+    required: false
+  label: body
 pages:
 - content/posts/hello.md
