@@ -2,12 +2,13 @@ baseURL = "https://musing-wescoff-4530ab.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 title = "Oceanic"
-
-[menu]
-
 [[menu.main]]
-    identifier = "home"
-    name = "home"
-    title = "home"
-    url = "/home/"
-    weight = -110
+name = "Posts"
+url = "/posts/"
+weight = 2
+[[menu.main]]
+identifier = "home"
+name = "home"
+title = "home"
+url = "/home/"
+weight = 1
