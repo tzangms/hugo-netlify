@@ -1,11 +1,13 @@
 ---
-label: About me
-hide_body: true
+label: Post
+hide_body: false
+display_field: title
 fields:
-- name: body
+- name: title
   type: text
   config:
     required: false
-  label: body
+  label: title
 pages:
+- content/check-check.md
 - content/posts/hello.md
