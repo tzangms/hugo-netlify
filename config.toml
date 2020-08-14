@@ -2,3 +2,12 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Oceanic"
 theme = "ananke"
+
+[menu]
+
+[[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "home"
+    url = "/home/"
+    weight = -110
