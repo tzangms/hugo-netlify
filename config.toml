@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://musing-wescoff-4530ab.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 title = "Oceanic"
